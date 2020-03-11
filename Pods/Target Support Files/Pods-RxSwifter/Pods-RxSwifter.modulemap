@@ -1,0 +1,6 @@
+framework module Pods_RxSwifter {
+  umbrella header "Pods-RxSwifter-umbrella.h"
+
+  export *
+  module * { export * }
+}
